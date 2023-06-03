@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "github.copilot.enable": {
+      "cpp": false
+    },
+    "files.associations": {
+      "ostream": "cpp",
+      "cmath": "cpp",
+      "random": "cpp",
+      "limits": "cpp",
+      "*.tcc": "cpp",
+      "deque": "cpp",
+      "string": "cpp",
+      "unordered_map": "cpp",
+      "vector": "cpp"
+    }
+  }
+}
